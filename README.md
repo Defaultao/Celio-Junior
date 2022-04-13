@@ -6,7 +6,6 @@
 - 🤔 I’m looking for work with React JS and Typescript <br>
 - 📫 How to reach me: celiojr932ster@gmail.com <br>
 - 😄 Pronouns: ele/dele
-
 <br>
 
 <div align="center">
