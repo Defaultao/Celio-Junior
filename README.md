@@ -1,14 +1,18 @@
-<div align="center">
-Olá!!! Eu sou o Célio Junior!!! 😉 <br><br>
-  
-🌱 Estou atualmente estudando Programação Web Fullstack
-</div><br>
+### Olá!!! Eu sou o Célio Junior!!! 😉 <br><br>
+
+- 🔭 I’m currently working on web full-stack <br>
+- 🌱 I’m currently learning Node.js <br>
+- 👯 I’m looking to collaborate on front-end projects <br>
+- 🤔 I’m looking for help with React JS <br>
+- 📫 How to reach me: celiojr932ster@gmail.com <br>
+- 😄 Pronouns: ele/dele
+
+<br>
 
 <div align="center">
   <a href="https://github.com/Defaultao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Defaultao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Celio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
