@@ -12,6 +12,7 @@
 <div align="center">
   <a href="https://github.com/Defaultao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Defaultao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defaultao&layout=&langs_count=7&theme=dracula"/> 
 </div>
 
 <div align="center" style="display: inline_block"><br>
