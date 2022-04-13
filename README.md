@@ -25,6 +25,6 @@ Olá!!! Eu sou o Célio Junior!!! 😉 <br><br>
   <a href = "celiojr932ster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/celiosantos90" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
  
-  ![Snake animation](https://github.com/celio-junior/celio-junior/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Defaultao/Celio-Junior/blob/output/github-contribution-grid-snake.svg)
  
 </div>
