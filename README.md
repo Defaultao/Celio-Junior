@@ -1,7 +1,5 @@
 ### Olá!!! Eu sou o Célio Junior!!! 😉 <br><br>
 
-- 🔭 I’m currently working on web full-stack <br>
-- 🌱 I’m currently learning Node.js <br>
 - 👯 I’m looking to collaborate on front-end and backend projects <br>
 - 🤔 I’m looking for work with React JS and Typescript <br>
 - 📫 How to reach me: celiojr932ster@gmail.com <br>
